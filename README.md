@@ -70,3 +70,8 @@ Kali Linux • Nmap • Burp Suite • Vulnerability Assessment
 ## 🤝 Let's Connect
 
 I'm open to opportunities, collaborations and interesting projects in **Software Engineering, AI/ML, Data Science and GenAI**.
+📧 Email: shreyasachan24@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/shreya-sachan-74081030a/
+
+💻 GitHub: https://github.com/shreya3090
