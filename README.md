@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg.svg" width="100%">
+  <img src="C:\Users\Shreya Sachan\Downloads\banner.svg.svg" width="100%">
 </p>
 
 # Hi, I'm Shreya Sachan 👋
