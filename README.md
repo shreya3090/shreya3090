@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner (2) (1).svg" width="100%">
+  <img src="./banner.svg" width="100%">
 </p>
 
 # Hi, I'm Shreya Sachan 👋
@@ -9,9 +9,8 @@
 I'm a Computer Science Engineering student passionate about building **AI-powered applications, machine learning systems, and scalable software solutions**.
 
 <p align="center">
-  <img src="./lanyard(1) (1).svg" width="100%">
+  <img src="./lanyard.svg" width="100%">
 </p>
-
 * 🔭 Currently working on **AI/ML, GenAI & MLOps projects**
 * 🤖 Interested in **Agentic AI, Machine Learning, Data Science & Backend Development**
 * 🛠️ Building end-to-end projects from **model development to deployment**
