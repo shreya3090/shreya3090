@@ -11,6 +11,7 @@ I'm a Computer Science Engineering student passionate about building **AI-powere
 <p align="center">
   <img src="./lanyard.svg" width="100%">
 </p>
+
 * 🔭 Currently working on **AI/ML, GenAI & MLOps projects**
 * 🤖 Interested in **Agentic AI, Machine Learning, Data Science & Backend Development**
 * 🛠️ Building end-to-end projects from **model development to deployment**
