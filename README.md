@@ -1,8 +1,16 @@
+<p align="center">
+  <img src="./banner (2) (1).svg" width="100%">
+</p>
+
 # Hi, I'm Shreya Sachan 👋
 
 ### AI/ML & Software Engineering Enthusiast
 
 I'm a Computer Science Engineering student passionate about building **AI-powered applications, machine learning systems, and scalable software solutions**.
+
+<p align="center">
+  <img src="./lanyard(1) (1).svg" width="100%">
+</p>
 
 * 🔭 Currently working on **AI/ML, GenAI & MLOps projects**
 * 🤖 Interested in **Agentic AI, Machine Learning, Data Science & Backend Development**
@@ -70,7 +78,8 @@ Kali Linux • Nmap • Burp Suite • Vulnerability Assessment
 ## 🤝 Let's Connect
 
 I'm open to opportunities, collaborations and interesting projects in **Software Engineering, AI/ML, Data Science and GenAI**.
-📧 Email: shreyasachan24@gmail.com
+
+📧 Email: [shreyasachan24@gmail.com](mailto:shreyasachan24@gmail.com)
 
 💼 LinkedIn: https://www.linkedin.com/in/shreya-sachan-74081030a/
 
